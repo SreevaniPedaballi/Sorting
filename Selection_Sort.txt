@@ -1,0 +1,5 @@
+selection sort:
+
+we are finding the max element and putting it into right posision
+
+This is not a stable soring aalgorithm.
