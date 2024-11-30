@@ -27,3 +27,5 @@ here 4 is the 2nd largest element
 
 
 for every swap last part is getting sorted
+origial order is maintained for values that are equal.This is known as stable sorting
+origial order is not maintained for values that are equal.This is known as unstable sorting
