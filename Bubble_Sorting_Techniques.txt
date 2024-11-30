@@ -1,0 +1,2 @@
+
+Bubble Sort is a comparision technique.This is also known as sinking sort or exchange sort
