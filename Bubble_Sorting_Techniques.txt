@@ -26,3 +26,4 @@ here 4 is the 2nd largest element
 4<5 true 1 2 3 4 5 
 
 
+for every swap last part is getting sorted
