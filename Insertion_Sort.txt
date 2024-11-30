@@ -1,0 +1,13 @@
+Insertion sort:
+i<=len(arr)-2
+j >0 and j=i+1
+
+array is partially sorted
+This is stable algorithm
+This is having less no of steps as compare to bubble sortInsertion sort:
+i<=len(arr)-2
+j >0 and j=i+1
+
+array is partially sorted
+This is stable algorithm
+This is having less no of steps as compare to bubble sort
